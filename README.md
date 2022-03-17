@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ronambulo
+- 👀 I’m interested in python, c#, discord bots and game development
+- 🌱 I’m currently learning Python
+- 📫 Contact: enriquerodridel@gmail.com
