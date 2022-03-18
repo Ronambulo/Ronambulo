@@ -27,3 +27,5 @@
   <img align="left" alt="Ronambulo's GitHub Stats:" src="https://github-readme-stats.vercel.app/api?username=Ronambulo&count_private=true&theme=material-palenight&show_icons=true&hide_border=true&icon_color=FFFFFF&text_color=FFFFFF&title_color=9146FF" />
   
 </details>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronambulo&repo=Python-Learning&theme=material-palenight&hide_border=true&title_color=9146FF&icon_color=FFFFFF)](https://github.com/Ronambulo/Python-Learning)
