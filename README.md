@@ -22,8 +22,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+<br>
 
   <img align="left" alt="Ronambulo's GitHub Stats:" src="https://github-readme-stats.vercel.app/api?username=Ronambulo&count_private=true&theme=radical&show_icons=true&hide_border=false&icon_color=f8418b&text_color=FFFFFF" />
-<br></br>
   
 </details>
