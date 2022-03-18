@@ -28,4 +28,3 @@
   
 </details>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronambulo&repo=Python-Learning&theme=material-palenight&hide_border=true&title_color=9146FF&icon_color=FFFFFF)](https://github.com/Ronambulo/Python-Learning)
