@@ -12,7 +12,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ronambuloo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fronambuloo&screen_name=ronambuloo)
 
 
-### Im a Spanish Software Engineering Student
+### Im a Spanish Software Engineering Student on first grade
 
 - 👋 Hi, I’m @Ronambulo
 - 👀 I'm interested in python, c, discord bots and game development
