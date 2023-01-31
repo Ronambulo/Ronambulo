@@ -12,11 +12,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ronambuloo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fronambuloo&screen_name=ronambuloo)
 
 
-### Im a Spanish Developer and Student
+### Im a Spanish Software Engineering Student
 
 - 👋 Hi, I’m @Ronambulo
-- 👀 I’m interested in python, c#, discord bots and game development
-- 🌱 I’m currently learning Python
+- 👀 I'm interested in python, c, discord bots and game development
+- 🌱 I'm currently learning C
+- 🌳 Lenguagues i know: C & Python.
 - 📫 Contact: enriquerodridel@gmail.com
 
 
