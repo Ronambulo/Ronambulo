@@ -17,7 +17,7 @@
 - 👋 Hi, I’m @Ronambulo
 - 👀 I'm interested in python, c, discord bots and game development
 - 🌱 I'm currently learning C
-- 🌳 Lenguagues i know: C & Python.
+- 🌳 I know Python, C, HTML, CSS and JS.
 - 📫 Contact: enriquerodridel@gmail.com
 
 
