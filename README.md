@@ -3,7 +3,7 @@
 [TikTok]: https://www.tiktok.com/@Ronambulo_
 [Youtube]: https://www.youtube.com/channel/UC7UvzyArXEhe2yQc0yrR-zQ
 [Website]: https://ronambulo.wordpress.com/
-[Twitch]: https://www.twitch.tv/Ronambulo_
+[Twitch]: https://www.twitch.tv/Ronambulo
 
 ## Hi there, I'm Enrique - aka [Ronambulo][Twitch]
 
