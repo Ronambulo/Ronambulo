@@ -17,7 +17,7 @@
 - 👋 Hi, I’m @Ronambulo
 - 👀 I'm interested front-backend, discord bots and game development
 - 🌱 I'm currently learning Java and C#
-- 🌳 I know Python, C, SQL, C#, JAVA, Arduino,HTML, CSS and JS.
+- 🌳 I know Python, C, SQL, C#, JAVA, Arduino, HTML, CSS and JS.
 - 📫 Contact: enriquerodridel@gmail.com
 
 
