@@ -25,7 +25,10 @@
 <div style="float: left; margin-right: 20px;">
   <img align="left" alt="Ronambulo's GitHub Stats:" src="https://github-readme-stats.vercel.app/api?username=Ronambulo&count_private=true&show_icons=true&hide_border=true&icon_color=FFFFFF&text_color=e4e6e6&bg_color=303238&title_color=019a01&rank_icon=github" />
 </div>
+<br>
+<br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronambulo&layout=compact)
 <!-- Contenedor para el streak -->
 <div style="float: left;">
   <img src="https://streak-stats.demolab.com?user=ronambulo&theme=dark&hide_border=true&background=303238&ring=004932&fire=01DD00&currStreakLabel=019A01" />
