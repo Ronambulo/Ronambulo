@@ -37,17 +37,13 @@ These are my GitHub statistics showing the number of contributions, repositories
 
 <h3 align="left">Languages and Tools:</h3>
 
-| **Programming Languages** | **Tools**           | **Web Technologies** | **Version Control** | **Database Management** | **Development Tools** | **Cloud Services** | **Design and Multimedia** | **Operating Systems** |
-| -------------------------- | ------------------- | --------------------- | --------------------- | ----------------------- | ---------------------- | ------------------- | -------------------------- | ---------------------- |
-| Python                     | Git                 | HTML5                 | Git                 | MariaDB                 | Arduino                | AWS               | Blender                    | Linux                |
-| Java                       | Linux               | CSS3                  |                     |                         | Unity                  |                   | Adobe Photoshop            |                      |
-| C                          |                     | JavaScript            |                     |                         |                        |                   |                            |                      |
-| C#                         |                     |                       |                     |                         |                        |                   |                            |                      |
-| JavaScript                 |                     |                       |                     |                         |                        |                   |                            |                      |
-
-These are just a few of the technologies I work with. My skill set is constantly evolving as I explore new tools and languages in my journey as a software engineering student.
-
-
+| **Programming Languages** | **Web Technologies** | **Version Control** | **Database Management** | **Development Tools** | **Cloud Services** | **Design and Multimedia** | **Operating Systems** |
+| -------------------------- | --------------------- | --------------------- | ----------------------- | ---------------------- | ------------------- | -------------------------- | ---------------------- |
+| Python                     | HTML5                 | Git                 | MariaDB                 | Arduino                | AWS               | Blender                    | Linux                |
+| Java                       | CSS3                  |                     |                         | Unity                  |                   | Adobe Photoshop            |                      |
+| C                          | JavaScript            |                     |                         |                        |                   |                            |                      |
+| C#                         |                       |                     |                         |                        |                   |                            |                      |
+| JavaScript                 |                       |                     |                         |                        |                   |                            |                      |
 
 
 
