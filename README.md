@@ -37,39 +37,16 @@ These are my GitHub statistics showing the number of contributions, repositories
 
 <h3 align="left">Languages and Tools:</h3>
 
-I have experience with a variety of programming languages and tools. Here's a glimpse of what I work with:
+| **Programming Languages** | **Tools**           | **Web Technologies** | **Version Control** | **Database Management** | **Development Tools** | **Cloud Services** | **Design and Multimedia** | **Operating Systems** |
+| -------------------------- | ------------------- | --------------------- | --------------------- | ----------------------- | ---------------------- | ------------------- | -------------------------- | ---------------------- |
+| Python                     | Git                 | HTML5                 | Git                 | MariaDB                 | Arduino                | AWS               | Blender                    | Linux                |
+| Java                       | Linux               | CSS3                  |                     |                         | Unity                  |                   | Adobe Photoshop            |                      |
+| C                          |                     | JavaScript            |                     |                         |                        |                   |                            |                      |
+| C#                         |                     |                       |                     |                         |                        |                   |                            |                      |
+| JavaScript                 |                     |                       |                     |                         |                        |                   |                            |                      |
 
-### Programming Languages:
-- [Python](https://www.python.org)
-- [Java](https://www.java.com)
-- [C](https://en.wikipedia.org/wiki/C_(programming_language))
-- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+These are just a few of the technologies I work with. My skill set is constantly evolving as I explore new tools and languages in my journey as a software engineering student.
 
-### Web Technologies:
-- [HTML5](https://www.w3.org/html/)
-- [CSS3](https://www.w3schools.com/css/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### Version Control:
-- [Git](https://git-scm.com/)
-
-### Database Management:
-- [MariaDB](https://mariadb.org/)
-
-### Development Tools:
-- [Arduino](https://www.arduino.cc/)
-- [Unity](https://unity.com/)
-
-### Cloud Services:
-- [Amazon Web Services (AWS)](https://aws.amazon.com)
-
-### Design and Multimedia:
-- [Blender](https://www.blender.org/)
-- [Adobe Photoshop](https://www.photoshop.com/en/)
-
-### Operating Systems:
-- [Linux](https://www.linux.org/)
 
 
 
