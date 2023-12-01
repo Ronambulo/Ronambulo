@@ -1,3 +1,10 @@
+[Instagram]: https://www.instagram.com/burnedreel/
+[Twitter]: https://twitter.com/Ronambulo
+[TikTok]: https://www.tiktok.com/@Ronambulo_
+[Youtube]: https://www.youtube.com/channel/UC7UvzyArXEhe2yQc0yrR-zQ
+[Website]: https://rodriguezdelreal.com/
+[Twitch]: https://www.twitch.tv/Ronambulo
+
 ## Hi there, I'm Enrique - aka [Ronambulo][Twitch]
 
 [![Twitch Status](https://img.shields.io/twitch/status/ronambulo?color=9146FF&label=Ronambulo_%20twitch&logo=twitch&logoColor=white&style=for-the-badge)][Twitch]
