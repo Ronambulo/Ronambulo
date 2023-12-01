@@ -33,6 +33,12 @@ These are my GitHub statistics showing the number of contributions, repositories
 ![GitHub Streak](https://streak-stats.demolab.com?user=ronambulo&theme=dark&hide_border=true&background=303238&ring=004932&fire=01DD00&currStreakLabel=019A01)
 
 
+| ![Python](python-icon.png) | ![Java](java-icon.png) | ![HTML](html-icon.png) |
+| -------------------------- | ---------------------- | ---------------------- |
+| Python                     | Java                   | HTML                   |
+
+
+
 <!-- Tabla con los enlaces a los iconos -->
 | **Programming Languages** | **Web Technologies** | **Version Control** | **Database Management** | **Development Tools** | **Cloud Services** | **Design and Multimedia** | **Operating Systems** |
 | -------------------------- | --------------------- | --------------------- | ----------------------- | ---------------------- | ------------------- | -------------------------- | ---------------------- |
