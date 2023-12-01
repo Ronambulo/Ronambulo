@@ -23,7 +23,7 @@
 
 :zap: GitHub Stats
 
-  <img align="left" alt="Ronambulo's GitHub Stats:" src="https://github-readme-stats.vercel.app/api?username=Ronambulo&count_private=true&show_icons=true&hide_border=true&icon_color=FFFFFF&text_color=e4e6e6&bg_color=303238&title_color=019a01&rank_icon=github" />
+  <img align="left" alt="Ronambulo's GitHub Stats:" src="https://github-readme-stats.vercel.app/api?username=Ronambulo&count_private=true&show_icons=true&hide_border=true&icon_color=FFFFFF&text_color=e4e6e6&bg_color=303238&title_color=019a01&rank_icon=hide" />
   
 <br>&nbsp;&nbsp;&nbsp;</br>
 
