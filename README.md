@@ -1,15 +1,3 @@
-[Instagram]: https://www.instagram.com/burnedreel/
-[Twitter]: https://twitter.com/Ronambulo
-[TikTok]: https://www.tiktok.com/@Ronambulo_
-[Youtube]: https://www.youtube.com/channel/UC7UvzyArXEhe2yQc0yrR-zQ
-[Website]: https://rodriguezdelreal.com/
-[Twitch]: https://www.twitch.tv/Ronambulo
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/burnedreel/)
-[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ronambulo)
-[![TikTok](https://img.shields.io/badge/-TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@Ronambulo_)
-[![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7UvzyArXEhe2yQc0yrR-zQ)
-
 ## Hi there, I'm Enrique - aka [Ronambulo][Twitch]
 
 [![Twitch Status](https://img.shields.io/twitch/status/ronambulo?color=9146FF&label=Ronambulo_%20twitch&logo=twitch&logoColor=white&style=for-the-badge)][Twitch]
