@@ -18,10 +18,15 @@
 - 👀 I'm interested front-backend, discord bots and game development
 - 🌱 I'm currently learning Java and C#
 - 🌳 I know Python, C, SQL, C#, JAVA, Arduino, HTML, CSS and JS.
-- 📫 Contact: enrique@rodriguezdelreal.com
+- 📫 Contact: [enrique@rodriguezdelreal.com](mailto:enrique@rodriguezdelreal.com)
 
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/burnedreel/)
+[![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ronambulo)
+[![TikTok](https://img.shields.io/badge/-TikTok-%23000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@Ronambulo_)
+[![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7UvzyArXEhe2yQc0yrR-zQ)
 
-:zap: GitHub Stats
+:zap: **GitHub Stats**
+These are my GitHub statistics showing the number of contributions, repositories, and other metrics.
 
   <img align="left" alt="Ronambulo's GitHub Stats:" src="https://github-readme-stats.vercel.app/api?username=Ronambulo&count_private=true&show_icons=true&hide_border=true&icon_color=FFFFFF&text_color=e4e6e6&bg_color=303238&title_color=019a01&rank_icon=github" />
   
@@ -29,8 +34,48 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ronambulo&theme=dark&hide_border=true&background=303238&ring=004932&fire=01DD00&currStreakLabel=019A01)
 
-<div style="background-color: #303238">
+
+<h3 align="left">Languages and Tools:</h3>
+
+I have experience with a variety of programming languages and tools. Here's a glimpse of what I work with:
+
+### Programming Languages:
+- [Python](https://www.python.org)
+- [Java](https://www.java.com)
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Web Technologies:
+- [HTML5](https://www.w3.org/html/)
+- [CSS3](https://www.w3schools.com/css/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Version Control:
+- [Git](https://git-scm.com/)
+
+### Database Management:
+- [MariaDB](https://mariadb.org/)
+
+### Development Tools:
+- [Arduino](https://www.arduino.cc/)
+- [Unity](https://unity.com/)
+
+### Cloud Services:
+- [Amazon Web Services (AWS)](https://aws.amazon.com)
+
+### Design and Multimedia:
+- [Blender](https://www.blender.org/)
+- [Adobe Photoshop](https://www.photoshop.com/en/)
+
+### Operating Systems:
+- [Linux](https://www.linux.org/)
+
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-</div>
+
 
