@@ -48,18 +48,12 @@ These are my GitHub statistics showing the number of contributions, repositories
 [CSS3]: https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg
 
 [Git]: https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg
-
 [MariaDB]: https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg
-
 [Arduino]: https://cdn.worldvectorlogo.com/logos/arduino-1.svg
 [Unity]: https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg
-
 [AWS]: https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg
-
 [Blender]: https://download.blender.org/branding/community/blender_community_badge_white.svg
-
 [Adobe Photoshop]: https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg
-
 [Linux]: https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg
 
 <!-- Tabla con los enlaces a los iconos -->
@@ -71,5 +65,5 @@ These are my GitHub statistics showing the number of contributions, repositories
 | ![C#]                      |                     |                       |                         |                        |                     |                            |                      |
 | ![JavaScript]              |                     |                       |                         |                        |                     |                            |                      |
 
-
+These are just a few of the technologies I work with. My skill set is constantly evolving as I explore new tools and languages in my journey as a software engineering student.
 
