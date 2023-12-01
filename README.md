@@ -29,9 +29,6 @@
 These are my GitHub statistics showing the number of contributions, repositories, and other metrics.
 
   <img align="left" alt="Ronambulo's GitHub Stats:" src="https://github-readme-stats.vercel.app/api?username=Ronambulo&count_private=true&show_icons=true&hide_border=true&icon_color=FFFFFF&text_color=e4e6e6&bg_color=303238&title_color=019a01&rank_icon=github" />
-  
-<br>&nbsp;&nbsp;&nbsp;</br>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ronambulo&theme=dark&hide_border=true&background=303238&ring=004932&fire=01DD00&currStreakLabel=019A01)
 
 
