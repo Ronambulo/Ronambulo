@@ -13,7 +13,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ronambulo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fronambulo&screen_name=ronambulo)
 
 ### I'm a Spanish Software Engineering Student on second grade
-
+</div>
 - 👋 Hi, I’m @Ronambulo
 - 👀 I'm interested in front-backend, discord bots, and game development
 - 🌱 I'm currently learning Java and C#
@@ -24,7 +24,7 @@
 
 <div style="float: left;">
   <img src="https://streak-stats.demolab.com?user=ronambulo&theme=dark&hide_border=true&background=303238&ring=004932&fire=01DD00&currStreakLabel=019A01" />
-</div>
+
 
 
 <br clear="both" /> <!-- Línea de ruptura para asegurar que los contenedores no se superpongan -->
