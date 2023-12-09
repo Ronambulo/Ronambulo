@@ -5,6 +5,7 @@
 [Website]: https://rodriguezdelreal.com/
 [Twitch]: https://www.twitch.tv/Ronambulo
 
+<div align="center" width="300">
 ## Hi there, I'm Enrique - aka [Ronambulo][Twitch]
 
 [![Twitch Status](https://img.shields.io/twitch/status/ronambulo?color=9146FF&label=Ronambulo_%20twitch&logo=twitch&logoColor=white&style=for-the-badge)][Twitch]
@@ -27,3 +28,4 @@
 
 
 <br clear="both" /> <!-- Línea de ruptura para asegurar que los contenedores no se superpongan -->
+</div>
