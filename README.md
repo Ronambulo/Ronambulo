@@ -5,7 +5,6 @@
 [Website]: https://rodriguezdelreal.com/
 [Twitch]: https://www.twitch.tv/Ronambulo
 
-<div align="center" width="300">
 <h1>Hi there, I'm Enrique - aka [Ronambulo][Twitch]</h1>
 
 [![Twitch Status](https://img.shields.io/twitch/status/ronambulo?color=9146FF&label=Ronambulo_%20twitch&logo=twitch&logoColor=white&style=for-the-badge)][Twitch]
@@ -24,8 +23,4 @@
 
 <div style="float: left;">
   <img src="https://streak-stats.demolab.com?user=ronambulo&theme=dark&hide_border=true&background=303238&ring=004932&fire=01DD00&currStreakLabel=019A01" />
-
-
-
-<br clear="both" /> <!-- Línea de ruptura para asegurar que los contenedores no se superpongan -->
 </div>
