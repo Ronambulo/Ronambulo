@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning Java and C#
 - 🌳 I know Python, C, SQL, C#, JAVA, Arduino, HTML, CSS, and JS.
 - 📫 Contact: [enrique@rodriguezdelreal.com](mailto:enrique@rodriguezdelreal.com)
-- 
+
 <div align="center">
   :zap: **GitHub Stats**
   
