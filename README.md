@@ -5,6 +5,8 @@
 [Website]: https://rodriguezdelreal.com/
 [Twitch]: https://www.twitch.tv/Ronambulo
 
+<img src="https://i.pinimg.com/originals/3c/28/c5/3c28c575882ff0ac5c0c16806cca1c36.gif">
+
 <div align="center">
   <div>
     <a href="https://www.twitch.tv/Ronambulo" text-decoration="none">
