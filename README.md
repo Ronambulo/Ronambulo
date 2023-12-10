@@ -43,13 +43,20 @@
   
   <p>
     <a href="https://github.com/ronambulo">
-      <img src="https://skillicons.dev/icons?i=js,html,css,aws,mysql,github,cloudflare,vscode,visualstudio" />
+      <img src="https://skillicons.dev/icons?i=js,html,css,aws,mysql" />
     </a>
   </p>
   
   <p>
     <a href="https://github.com/ronambulo">
-      <img src="https://skillicons.dev/icons?i=c,cs,arduino,discord,blender,unity,python,eclipse,java,linux" />
+      <img src="https://skillicons.dev/icons?i=c,cs,arduino,blender,unity,python,java" />
+    </a>
+  </p>
+  <br>
+  <h1>🧰 My Tools</h1>
+  <p>
+    <a href="https://github.com/ronambulo">
+      <img src="https://skillicons.dev/icons?i=discord,eclipse,linux,vscode,visualstudio,github,cloudflare" />
     </a>
   </p>
   <br>
