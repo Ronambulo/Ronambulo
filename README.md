@@ -29,7 +29,7 @@
 </div>
 
 <br>
-<h1>My Skills</h1>
+<h1 align="center">My Skills</h1>
 
 <p align="center">
   <a href="https://github.com/ronambulo">
