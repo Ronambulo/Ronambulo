@@ -18,6 +18,8 @@
   </a>
 </div>
 
+### Soy un estudiante de Ingenieria del Software, actualmente estoy en segundo de carrera
+
 <div align="center">
 <h3>:zap: GitHub Stats</h1>
   
