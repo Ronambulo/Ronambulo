@@ -12,7 +12,7 @@
     <img src="https://i.pinimg.com/originals/cf/23/d5/cf23d5c33ff1ad50cf49d02721b4b5e2.gif">
   </a>
   <!-- Links -->
-  <div>
+  <span>
     <a href="https://www.twitch.tv/Ronambulo" text-decoration="none">
       <img src="https://img.shields.io/twitch/status/ronambulo?color=9146FF&label=Ronambulo_%20twitch&logo=twitch&logoColor=white&style=for-the-badge">
     </a>
@@ -22,7 +22,7 @@
     <a href="https://twitter.com/Ronambulo" text-decoration="none">
       <img src="https://img.shields.io/twitter/follow/ronambulo?color=1DA1F2&logo=twitter&style=for-the-badge">
     </a>
-  </div>
+  </span>
 
   <!-- Descripción -->
   <h1>👋 Hola, soy Enrique</h1>
