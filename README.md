@@ -33,10 +33,15 @@
 
 <p align="center">
   <a href="https://github.com/ronambulo">
-    <img src="https://skillicons.dev/icons?i=js,html,css,arduino,aws,blender,c,cs,cloudflare,discord,eclipse,java,github,linux,ps,py,unity,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,aws,mysql,git,cloudflare,vscode" />
   </a>
 </p>
-
+<br>
+<p align="center">
+  <a href="https://github.com/ronambulo">
+    <img src="https://skillicons.dev/icons?i=arduino,blender,unity,python,eclipse,java,linux,c,cs" />
+  </a>
+</p>
 <br>
 <h1 align="center">Learning</h1>
 
