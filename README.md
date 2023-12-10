@@ -8,9 +8,9 @@
 
 <div align="center">
   <!-- Banner -->
-  
-  [![Texto alternativo](https://i.pinimg.com/originals/cf/23/d5/cf23d5c33ff1ad50cf49d02721b4b5e2.gif)](https://www.youtube.com/watch?app=desktop&v=dQw4w9WgXcQ&feature=youtu.be&themeRefresh=1){:target="_blank"}
-
+  <a href="https://www.youtube.com/watch?app=desktop&v=dQw4w9WgXcQ&feature=youtu.be&themeRefresh=1" target="_blank">
+    <img src="https://i.pinimg.com/originals/cf/23/d5/cf23d5c33ff1ad50cf49d02721b4b5e2.gif">
+  </a>
   <!-- Links -->
   <span>
     <a href="https://www.twitch.tv/Ronambulo" text-decoration="none">
