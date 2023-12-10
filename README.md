@@ -6,7 +6,7 @@
 [Twitch]: https://www.twitch.tv/Ronambulo
 
 
-<div align="center">
+<div style="display: flex; justify-content: space-between;>
   <!-- Banner -->
   <a href="https://www.youtube.com/watch?app=desktop&v=dQw4w9WgXcQ&feature=youtu.be&themeRefresh=1" target="_blank">
     <img src="https://i.pinimg.com/originals/cf/23/d5/cf23d5c33ff1ad50cf49d02721b4b5e2.gif">
@@ -22,7 +22,7 @@
     <a href="https://twitter.com/Ronambulo" text-decoration="none">
       <img src="https://img.shields.io/twitter/follow/ronambulo?color=1DA1F2&logo=twitter&style=for-the-badge">
     </a>
-  </span>
+  </div>
 
   <!-- Descripción -->
   <h1>👋 Hola, soy Enrique</h1>
