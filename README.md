@@ -6,7 +6,6 @@
 [Twitch]: https://www.twitch.tv/Ronambulo
 
 <div align="center">
-  <h1>👋 Hola, soy Enrique</h1>
   <div>
     <a href="https://www.twitch.tv/Ronambulo" text-decoration="none">
       <img src="https://img.shields.io/twitch/status/ronambulo?color=9146FF&label=Ronambulo_%20twitch&logo=twitch&logoColor=white&style=for-the-badge">
@@ -18,6 +17,7 @@
       <img src="https://img.shields.io/twitter/follow/ronambulo?color=1DA1F2&logo=twitter&style=for-the-badge">
     </a>
   </div>
+  <h1>👋 Hola, soy Enrique</h1>
   
   <h3>Soy un estudiante de Ingenieria del Software, actualmente estoy en segundo de carrera</h3>
   
