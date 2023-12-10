@@ -6,11 +6,11 @@
 [Twitch]: https://www.twitch.tv/Ronambulo
 
 <h1 align="center">Hi there, I'm Enrique - aka Ronambulo</h1>
-<div>
+<div align="center">
   <a href="https://www.twitch.tv/Ronambulo">
     <img src="https://img.shields.io/twitch/status/ronambulo?color=9146FF&label=Ronambulo_%20twitch&logo=twitch&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://www.twitch.tv/Ronambulo](https://rodriguezdelreal.com/">
+  <a href="https://rodriguezdelreal.com/">
     <img src="https://img.shields.io/website?label=rodriguezdelreal.com&style=for-the-badge&url=https%3A%2F%2Frodriguezdelreal.com/">
   </a>
   <a href="https://twitter.com/Ronambulo">
