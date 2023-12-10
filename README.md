@@ -22,6 +22,7 @@
     <a href="https://twitter.com/Ronambulo" text-decoration="none">
       <img src="https://img.shields.io/twitter/follow/ronambulo?color=1DA1F2&logo=twitter&style=for-the-badge">
     </a>
+    
   </div>
   <br>
   <!-- Descripción -->
@@ -67,5 +68,12 @@
       <img src="https://skillicons.dev/icons?i=bots,r,react,md" />
     </a>
   </p>
+
+  <h1>
+    &nbsp;
+  </h1>
+
+  ![](https://komarev.com/ghpvc/?username=ronambulo&style=for-the-badge)
 </div>
+
 
