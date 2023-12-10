@@ -39,7 +39,7 @@
 
   <!-- Skills -->
   <br>
-  <h1>My Skills</h1>
+  <h1>🎯 My Skills</h1>
   
   <p>
     <a href="https://github.com/ronambulo">
@@ -53,7 +53,7 @@
     </a>
   </p>
   <br>
-  <h1>Learning</h1>
+  <h1>🧠 Learning</h1>
   
   <p>
     <a href="https://github.com/ronambulo">
