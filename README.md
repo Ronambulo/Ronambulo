@@ -28,6 +28,9 @@
   </div>
 </div>
 
+<br>
+<h1>My Skills</h1>
+
 <p align="center">
   <a href="https://github.com/ronambulo">
     <img src="https://skillicons.dev/icons?i=js,html,css,arduino,aws,blender,c,cs,cloudflare,discord,eclipse,java,github,linux,ps,py,unity,visualstudio,vscode" />
