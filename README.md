@@ -43,13 +43,13 @@
   
   <p>
     <a href="https://github.com/ronambulo">
-      <img src="https://skillicons.dev/icons?i=js,html,css,aws,mysql" />
+      <img src="https://skillicons.dev/icons?i=js,html,css,aws,mysql.java" />
     </a>
   </p>
   
   <p>
     <a href="https://github.com/ronambulo">
-      <img src="https://skillicons.dev/icons?i=c,cs,arduino,blender,unity,python,java" />
+      <img src="https://skillicons.dev/icons?i=c,cs,arduino,blender,unity,python" />
     </a>
   </p>
   <br>
