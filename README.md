@@ -15,9 +15,6 @@
 ### I'm a Spanish Software Engineering Student on second grade
 
 - 👋 Hi, I’m @Ronambulo
-- 👀 I'm interested in front-backend, discord bots, and game development
-- 🌱 I'm currently learning Java and C#
-- 🌳 I know Python, C, SQL, C#, JAVA, Arduino, HTML, CSS, and JS.
 - 📫 Contact: [enrique@rodriguezdelreal.com](mailto:enrique@rodriguezdelreal.com)
 
 <div align="center">
