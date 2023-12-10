@@ -43,7 +43,7 @@
   
   <p>
     <a href="https://github.com/ronambulo">
-      <img src="https://skillicons.dev/icons?i=js,html,css,aws,mysql.java" />
+      <img src="https://skillicons.dev/icons?i=js,html,css,aws,mysql,java" />
     </a>
   </p>
   
