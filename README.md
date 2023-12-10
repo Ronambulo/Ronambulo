@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/ronambulo">
-    <img src="https://skillicons.dev/icons?i=c,cs,arduino,blender,unity,python,eclipse,java,linux,discord" />
+    <img src="https://skillicons.dev/icons?i=c,cs,arduino,discord,blender,unity,python,eclipse,java,linux" />
   </a>
 </p>
 <br>
