@@ -10,10 +10,10 @@
   <a href="https://www.twitch.tv/Ronambulo" text-decoration="none">
     <img src="https://img.shields.io/twitch/status/ronambulo?color=9146FF&label=Ronambulo_%20twitch&logo=twitch&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://rodriguezdelreal.com/">
+  <a href="https://rodriguezdelreal.com/" text-decoration="none">
     <img src="https://img.shields.io/website?label=rodriguezdelreal.com&style=for-the-badge&url=https%3A%2F%2Frodriguezdelreal.com/">
   </a>
-  <a href="https://twitter.com/Ronambulo">
+  <a href="https://twitter.com/Ronambulo" text-decoration="none">
     <img src="https://img.shields.io/twitter/follow/ronambulo?color=1DA1F2&logo=twitter&style=for-the-badge">
   </a>
 </div>
