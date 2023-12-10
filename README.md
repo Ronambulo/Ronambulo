@@ -5,7 +5,7 @@
 [Website]: https://rodriguezdelreal.com/
 [Twitch]: https://www.twitch.tv/Ronambulo
 
-<h1 align="center">Hola, soy Enrique. también conocido como Ronambulo</h1>
+<h1 align="center">👋 Hola, soy Enrique</h1>
 <div align="center">
   <a href="https://www.twitch.tv/Ronambulo" text-decoration="none">
     <img src="https://img.shields.io/twitch/status/ronambulo?color=9146FF&label=Ronambulo_%20twitch&logo=twitch&logoColor=white&style=for-the-badge">
@@ -17,13 +17,6 @@
     <img src="https://img.shields.io/twitter/follow/ronambulo?color=1DA1F2&logo=twitter&style=for-the-badge">
   </a>
 </div>
-
-
-
-### I'm a Spanish Software Engineering Student on second grade
-
-- 👋 Hi, I’m @Ronambulo
-- 📫 Contact: [enrique@rodriguezdelreal.com](mailto:enrique@rodriguezdelreal.com)
 
 <div align="center">
 <h3>:zap: GitHub Stats</h1>
