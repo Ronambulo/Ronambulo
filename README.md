@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://github.com/ronambulo">
-    <img src="https://skillicons.dev/icons?i=js,html,css,aws,mysql,git,cloudflare,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,aws,mysql,github,cloudflare,vscode,visualstudio" />
   </a>
 </p>
 
