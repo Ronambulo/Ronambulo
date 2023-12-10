@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi there, I'm Enrique - aka Ronambulo</h1>
 <div align="center">
-  <a href="https://www.twitch.tv/Ronambulo">
+  <a href="https://www.twitch.tv/Ronambulo" text-decoration="none">
     <img src="https://img.shields.io/twitch/status/ronambulo?color=9146FF&label=Ronambulo_%20twitch&logo=twitch&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://rodriguezdelreal.com/">
