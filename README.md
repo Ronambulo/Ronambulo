@@ -29,7 +29,7 @@
 </div>
 
 <h1>My Skills</h1>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,aws,blender,c,cs,cloudflare,discord,eclipse,java,github,linux,ps,py,unity,visualstudio,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,aws,blender,c,cs,cloudflare,discord,eclipse,java,github,linux,ps,py,unity,visualstudio,vscode)](https://skillicons.dev)
 <br><br>
 <h1>Learning</h1>
 [![Learning](https://skillicons.dev/icons?i=R,react,bots,)](https://skillicons.dev)
