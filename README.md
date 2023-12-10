@@ -56,7 +56,7 @@
   <h1>🧰 My Tools</h1>
   <p>
     <a href="https://github.com/ronambulo">
-      <img src="https://skillicons.dev/icons?i=discord,eclipse,linux,vscode,visualstudio,github,cloudflare" />
+      <img src="https://skillicons.dev/icons?i=discord,github,vscode,visualstudio,eclipse,cloudflare,linux" />
     </a>
   </p>
   <br>
