@@ -37,3 +37,13 @@
   </a>
 </p>
 
+<br>
+<h1 align="center">Learning</h1>
+
+<p align="center">
+  <a href="https://github.com/ronambulo">
+    <img src="https://skillicons.dev/icons?i=R,react,bots," />
+  </a>
+</p>
+
+
