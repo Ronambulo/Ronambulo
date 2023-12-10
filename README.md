@@ -23,7 +23,6 @@
   
   <div>
   <h3>:zap: GitHub Stats</h1>
-    
     <div style="float: left;">
       <img src="https://streak-stats.demolab.com?user=ronambulo&theme=dark&hide_border=true&background=303238&ring=004932&fire=01DD00&currStreakLabel=019A01" />
     </div>
