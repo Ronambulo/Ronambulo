@@ -28,5 +28,9 @@
   </div>
 </div>
 
-<h1>My Skills</h1>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://github.com/ronambulo">
+    <img src="https://skillicons.dev/icons?i=js,html,css,arduino,aws,blender,c,cs,cloudflare,discord,eclipse,java,github,linux,ps,py,unity,visualstudio,vscode" />
+  </a>
+</p>
+
