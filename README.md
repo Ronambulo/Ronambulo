@@ -10,10 +10,14 @@
   <a href="https://www.twitch.tv/Ronambulo">
     <img src="https://img.shields.io/twitch/status/ronambulo?color=9146FF&label=Ronambulo_%20twitch&logo=twitch&logoColor=white&style=for-the-badge">
   </a>
+  <a href="https://www.twitch.tv/Ronambulo](https://rodriguezdelreal.com/">
+    <img src="https://img.shields.io/website?label=rodriguezdelreal.com&style=for-the-badge&url=https%3A%2F%2Frodriguezdelreal.com/">
+  </a>
+  <a href="https://twitter.com/Ronambulo">
+    <img src="https://img.shields.io/twitter/follow/ronambulo?color=1DA1F2&logo=twitter&style=for-the-badge">
+  </a>
 </div>
 
-[![Website](https://img.shields.io/website?label=rodriguezdelreal.com&style=for-the-badge&url=https%3A%2F%2Frodriguezdelreal.com/)](https://rodriguezdelreal.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/ronambulo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fronambulo&screen_name=ronambulo)
 
 
 ### I'm a Spanish Software Engineering Student on second grade
