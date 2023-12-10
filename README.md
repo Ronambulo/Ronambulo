@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://github.com/ronambulo">
-    <img src="https://skillicons.dev/icons?i=r,react,bots," />
+    <img src="https://skillicons.dev/icons?i=r,react,bots,md" />
   </a>
 </p>
 
