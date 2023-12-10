@@ -33,10 +33,10 @@
 
 <p align="center">
   <a href="https://github.com/ronambulo">
-    <img src="https://skillicons.dev/icons?i=js,html,css,aws,mysql,git,cloudflare,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,aws,mysql,git,cloudflare,vscode,visualstudio" />
   </a>
 </p>
-<br>
+
 <p align="center">
   <a href="https://github.com/ronambulo">
     <img src="https://skillicons.dev/icons?i=arduino,blender,unity,python,eclipse,java,linux,c,cs" />
