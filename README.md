@@ -65,7 +65,7 @@
   
   <p>
     <a href="https://github.com/ronambulo">
-      <img src="https://skillicons.dev/icons?i=bots,r,react,md" />
+      <img src="https://skillicons.dev/icons?i=bots,r,react,md,cpp" />
     </a>
   </p>
 
