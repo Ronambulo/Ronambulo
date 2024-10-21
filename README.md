@@ -42,6 +42,8 @@
     &nbsp;
   </h1>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronambulo&layout=donut&theme=dark&hide_border=true&background=242938)](https://github.com/anuraghazra/github-readme-stats)
+
   ![](https://komarev.com/ghpvc/?username=ronambulo&style=for-the-badge&color=004932)
 </div>
 
