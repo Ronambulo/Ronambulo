@@ -28,7 +28,7 @@
   <!-- Descripción -->
   <h1>👋 Hola, soy Enrique</h1>
   
-  <h3>Soy un estudiante de Ingenieria del Software, actualmente estoy en segundo de carrera</h3>
+  <h3>Soy un estudiante de Ingenieria del Software, actualmente estoy en tercero de carrera</h3>
 
   <!-- Stats -->
   <div>
