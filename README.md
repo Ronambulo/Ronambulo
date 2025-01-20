@@ -46,7 +46,8 @@
   <h1>
     &nbsp;
   </h1>
-  ![](https://komarev.com/ghpvc/?username=ronambulo&style=for-the-badge&color=004932)
+  
+  ![count](https://komarev.com/ghpvc/?username=ronambulo&style=for-the-badge&color=004932)
 </div>
 
 
