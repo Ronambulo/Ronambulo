@@ -39,10 +39,6 @@
     </div>
   </div>
 <br>
-<br>
-<br>
-<br>
-<br>
   <h1>
     &nbsp;
   </h1>
