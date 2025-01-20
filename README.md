@@ -35,7 +35,7 @@
   <h3>:zap: GitHub Stats</h1>
     <div style="float: left;">
       <p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronambulo&layout=donut&theme=dark&hide_border=true" alt="ronambulo" /></p>
-      <p>&nbsp;<img align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=ronambulo&show_icons=true&locale=en&theme=dark&hide_border=true&background=151b23&hide_rank=true" alt="ronambulo" /></p>
+      <p>&nbsp;<img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=ronambulo&show_icons=true&locale=en&theme=dark&hide_border=true&background=151b23&hide_rank=true" alt="ronambulo" /></p>
     </div>
   </div>
 <br>
