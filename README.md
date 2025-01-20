@@ -53,8 +53,8 @@
   <h3>:zap: GitHub Stats</h1>
   <div align="left">   
   
- <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronambulo&theme=dark&show_icons=true&hide_border=true&layout=donut&bg_color=151b23" target="_blank" rel="noreferrer" height="195px">
-<img src="https://github-readme-stats.vercel.app/api?username=Ronambulo&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=151b23" target="_blank" rel="noreferrer"></p>
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronambulo&theme=dark&show_icons=true&hide_border=true&layout=donut&bg_color=151b23" target="_blank" rel="noreferrer" height="195px">
+<img src="https://github-readme-stats.vercel.app/api?username=Ronambulo&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=151b23&ring_color=004932" target="_blank" rel="noreferrer"></p>
     
       
   </div>
