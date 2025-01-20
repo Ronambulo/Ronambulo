@@ -34,16 +34,18 @@
   <div>
   <h3>:zap: GitHub Stats</h1>
     <div style="float: left;">
-      <img src="https://streak-stats.demolab.com?user=ronambulo&theme=dark&hide_border=true&background=242938&ring=004932&fire=01DD00&currStreakLabel=019A01" />
+      <p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronambulo&layout=donut&theme=dark&hide_border=true" alt="ronambulo" /></p>
+      <p>&nbsp;<img align="right" height="200" src="https://github-readme-stats.vercel.app/api?username=ronambulo&show_icons=true&locale=en&theme=dark&hide_border=true&background=151b23&hide_rank=true" alt="ronambulo" /></p>
     </div>
   </div>
-
+<br>
+<br>
+<br>
+<br>
+<br>
   <h1>
     &nbsp;
   </h1>
-
-  <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronambulo&layout=donut&theme=dark&hide_border=true&background=242938)](https://github.com/anuraghazra/github-readme-stats) --->
-
   ![](https://komarev.com/ghpvc/?username=ronambulo&style=for-the-badge&color=004932)
 </div>
 
