@@ -28,7 +28,7 @@
   <br>
   <!-- Descripción -->
 <h1 align="center">Hi 👋, I'm Enrique</h1>
-<h3 align="center">A Software Engineering Student</h3>
+<h3 align="center">Software Engineering Student at U-TAD</h3>
 
  👯 I’m looking to collaborate on **web development proyects**
  
