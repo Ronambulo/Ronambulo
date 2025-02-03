@@ -24,12 +24,15 @@
     </a>
     
   </div>
-  <div align="left">
+
   <br>
   <!-- Descripción -->
 <h1 align="center">Hi 👋, I'm Enrique</h1>
-<h3 align="center">Software Engineering Student at U-TAD</h3>
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=16854E&center=true&vCenter=true&width=435&lines=Software+Engineer;Student+at+U-tad;always+keen+to+learn)](https://git.io/typing-svg)
 
+  <div align="left">
+    
  👯 I’m looking to collaborate on **web development proyects**
  
  👨‍💻 All of my projects are available at [git.rodriguezdelreal.com](git.rodriguezdelreal.com)
