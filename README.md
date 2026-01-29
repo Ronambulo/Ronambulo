@@ -7,8 +7,6 @@
 
 <div align="center">
 
-  <h1 class="no-border">👋 Hola, soy Enrique</h1>
-
   <a href="https://rodriguezdelreal.com/">
     <img src="https://img.shields.io/badge/Portfolio-rodriguezdelreal.com-004932?style=for-the-badge&logo=googlechrome&logoColor=white">
   </a>
@@ -16,9 +14,10 @@
   <a href="https://www.linkedin.com/in/enrique-rodriguez-del-real/">
     <img src="https://img.shields.io/badge/LinkedIn-Enrique%20Rodríguez-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</div>
 
----
+  <h1 class="no-border">👋 Hola, soy Enrique</h1>
+
+</div>
 
 ## 👋 Sobre mí
 
