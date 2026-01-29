@@ -7,8 +7,6 @@
 
 <div align="center">
 
-  <img src="https://i.postimg.cc/Fst6L7GS/profilepng.png" width="400" />
-
   <h1 class="no-border">👋 Hola, soy Enrique</h1>
 
   <a href="https://rodriguezdelreal.com/">
