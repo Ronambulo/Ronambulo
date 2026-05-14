@@ -24,7 +24,7 @@
 Soy estudiante de último curso de Ingeniería de Software en U-TAD. 
 Me gusta crear cosas y entender cómo funcionan por dentro, tanto a nivel de código como de sistemas.
 
-Trabajo como becario en MasOrange en el departament de TechOperations Projects & Planning, colaborando con otros equipos técnicos y aprendiendo cómo desarrollar software para automatizar procesos y como se gestionan proyectos de infraestructura. Me interesa seguir creciendo como ingeniero de software, aprendiendo y participando en proyectos.
+Trabajo en Tech Operations en MasOrange. Me interesa seguir creciendo como ingeniero de software, aprendiendo y participando en proyectos.
 
 ---
 
