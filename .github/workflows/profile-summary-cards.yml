@@ -5,24 +5,20 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
-
-      - uses: vn7n24fzkq/github-profile-summary-cards@release/v5
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
           USERNAME: ${{ github.repository_owner }}
-
-      - name: Commit generated cards
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output
-          git diff --cached --quiet || git commit -m "chore: update profile summary cards"
-          git push
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 1
+          AUTO_PUSH: true
