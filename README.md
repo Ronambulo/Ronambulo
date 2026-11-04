@@ -42,7 +42,7 @@ Ingeniero de software en último curso de Ingeniería de Software en **U-TAD** y
 | 💰 [**FinanceMaster**](https://github.com/Ronambulo/FinanceMaster) | App de finanzas en Docker para **CasaOS y ZimaOS**, compatible con las exportaciones CSV de **Trade Republic**. | `TypeScript` `Docker` |
 | 🎓 [**Project Center U-tad**](https://github.com/Ronambulo/Project-Center-U-tad) | Plataforma para el departamento de Proyectos de la universidad. **Condecorado como uno de los 2 mejores proyectos de la universidad.** | `JavaScript` |
 | 📚 [**BibliotecaGO**](https://github.com/Ronambulo/BibliotecaGO6) | App Android nativa para el lector de tinta electrónica **BOOX Go 6**: explora tu servidor Calibre-Web por OPDS, descarga EPUB/PDF y léelos con o sin conexión. UI propia para E Ink sin animaciones, sincronización de leídos y APK firmado con CI. | `Kotlin` `Jetpack Compose` `Readium` |
-| 🃏 [**Blackjack with Friends**](https://github.com/Ronambulo/blackjack-with-friends) | Blackjack para jugar con amigos. | `TODO` |
+| 🃏 [**Blackjack with Friends**](https://github.com/Ronambulo/blackjack-with-friends) | Juego que desarrollé para jugar con mis amigos y conocidos. Se juega a diario e incluye misiones, retos, logros, eventos festivos y minijuegos diarios. Desplegado en mi propio servidor con Docker. | `Next.js` `PWA` `Docker` |
 | 🧠 [**Simulador Caché MEGATRONIX**](https://github.com/Ronambulo/Simulador-Cache-MEGATRONIX) | Simulador de memoria a bajo nivel. | `C` |
 
 👉 Más en [**git.rodriguezdelreal.com**](https://git.rodriguezdelreal.com) y en mi [portfolio interactivo](https://rodriguezdelreal.com) (con estética VS Code).
@@ -92,7 +92,7 @@ Software engineer in my final year of a Software Engineering degree at **U-TAD**
 | 💰 [**FinanceMaster**](https://github.com/Ronambulo/FinanceMaster) | Dockerized personal finance app for **CasaOS and ZimaOS**, compatible with **Trade Republic** CSV exports. | `TypeScript` `Docker` |
 | 🎓 [**Project Center U-tad**](https://github.com/Ronambulo/Project-Center-U-tad) | Platform for the university's Projects department. **Awarded as one of the 2 best projects at the university.** | `JavaScript` |
 | 📚 [**BibliotecaGO**](https://github.com/Ronambulo/BibliotecaGO6) | Native Android app for the **BOOX Go 6** e-ink reader: browse your Calibre-Web server via OPDS, download EPUB/PDF and read online or offline. Custom animation-free E Ink UI, two-way read-status sync and signed APKs via CI. | `Kotlin` `Jetpack Compose` `Readium` |
-| 🃏 [**Blackjack with Friends**](https://github.com/Ronambulo/blackjack-with-friends) | Blackjack to play with friends. | `TODO` |
+| 🃏 [**Blackjack with Friends**](https://github.com/Ronambulo/blackjack-with-friends) | A game I built to play with my friends and acquaintances. It's played daily and includes missions, challenges, achievements, holiday events and daily minigames. Deployed on my own server with Docker. | `Next.js` `PWA` `Docker` |
 | 🧠 [**MEGATRONIX Cache Simulator**](https://github.com/Ronambulo/Simulador-Cache-MEGATRONIX) | Low-level memory simulator. | `C` |
 
 👉 More at [**git.rodriguezdelreal.com**](https://git.rodriguezdelreal.com) and in my [interactive portfolio](https://rodriguezdelreal.com) (VS Code-inspired).
